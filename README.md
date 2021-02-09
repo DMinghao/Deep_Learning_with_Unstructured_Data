@@ -29,20 +29,23 @@
 
 - General Requirements 
     ```
-    Java    == 1.8 
-    Gephi   >= 0.92
-    Python  >= 3.7
+    Java        == 1.8 
+    Gephi       >= 0.92
+    Python      >= 3.7
+    Docker      (Optional)
     ```
 
 - Python Requirments 
     ```
-    ipykernel   >=5.4.3
+    Jupyter     >= 5.4.3
     NetworkX    >= 2.5
-    numpy       >= 1.20
-    matplotlib  >= 3.3.4
+    NumPy       >= 1.20
+    Matplotlib  >= 3.3.4
+    Graph-Tool  >= 2.37
     ```
     Install python requirements 
     ```bash
     $ pip install -r requirements.txt
     ```
+    [Install Graph-Tool](./GraphTool_Docker/README.md)
 
