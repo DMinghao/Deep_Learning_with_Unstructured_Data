@@ -19,8 +19,8 @@
 
 ### Using Graph-Tool
 1. Run the following command: 
-   - Windows : `.\GraphTool_Docker\startGraphtool.sh`
-   - Linux | MacOS : `source ./GraphTool_Docker/startGraphtool.sh`
+   - Windows : `.\Use_GraphTool\startGraphtool.sh`
+   - Linux | MacOS : `source ./Use_GraphTool/startGraphtool.sh`
    
    > **[IMPORTANT]** Keep the terminal alive while working
 2. A Jupyter kernel link will be provided. 

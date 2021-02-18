@@ -37,9 +37,8 @@
     ```
 - Python Requirments 
     ```
-    Jupyter     >= 5.4.3
+    Jupyter     >= 1.0.0
     NetworkX    >= 2.5
-    NumPy       >= 1.20
     Matplotlib  >= 3.3.4
     Graph-Tool  >= 2.37     (See Install Guide)
     Keras       >= 2.4.3
@@ -53,5 +52,5 @@
     ```bash
     $ pip install -r requirements.txt
     ```
-    [Install Graph-Tool](./GraphTool_Docker/README.md)
+    [Install Graph-Tool](./Use_GraphTool/README.md)
 
