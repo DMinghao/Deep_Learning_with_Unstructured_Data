@@ -6,3 +6,4 @@ pandas>=1.2.1
 keras>=2.4.3
 tqdm>=4.56.2
 pydot>=1.4.2
+livelossplot>= 0.5.4

@@ -47,6 +47,7 @@
         # for CUDA11 --> 2.4
     tqdm        >= 4.56.2   (Optional)
     pydot       >= 1.4.2    (Optional)
+    livelossplot>= 0.5.4    (Optional)
     ```
     Install python requirements 
     ```bash
