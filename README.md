@@ -33,15 +33,21 @@
     Gephi       >= 0.92
     Python      >= 3.7
     Docker      (Optional)
+    Graphviz    (Optional)
     ```
-
 - Python Requirments 
     ```
     Jupyter     >= 5.4.3
     NetworkX    >= 2.5
     NumPy       >= 1.20
     Matplotlib  >= 3.3.4
-    Graph-Tool  >= 2.37
+    Graph-Tool  >= 2.37     (See Install Guide)
+    Keras       >= 2.4.3
+    TensorFlow  >= 2.3.1  
+        # for CUDA10 --> 2.3.1
+        # for CUDA11 --> 2.4
+    tqdm        >= 4.56.2   (Optional)
+    pydot       >= 1.4.2    (Optional)
     ```
     Install python requirements 
     ```bash
