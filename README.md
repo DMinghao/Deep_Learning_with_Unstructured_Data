@@ -37,17 +37,19 @@
     ```
 - Python Requirments 
     ```
-    Jupyter     >= 1.0.0
-    NetworkX    >= 2.5
-    Matplotlib  >= 3.3.4
-    Graph-Tool  >= 2.37     (See Install Guide)
-    Keras       >= 2.4.3
-    TensorFlow  >= 2.3.1  
+    Jupyter     >=  1.0.0
+    NetworkX    >=  2.5
+    Matplotlib  >=  3.3.4
+    Graph-Tool  >=  2.37        (See Install Guide)
+    Keras       >=  2.4.3
+    TensorFlow  >=  2.3.1  
         # for CUDA10 --> 2.3.1
         # for CUDA11 --> 2.4
-    tqdm        >= 4.56.2   (Optional)
-    pydot       >= 1.4.2    (Optional)
-    livelossplot>= 0.5.4    (Optional)
+    tqdm        >=  4.56.2      (Optional)
+    pydot       >=  1.4.2       (Optional)
+    livelossplot>=  0.5.4       (Optional)
+    visualkeras >=  0.0.1       (Optional)
+    numba       >=  0.52.0      (Optional)
     ```
     Install python requirements 
     ```bash
