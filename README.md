@@ -45,6 +45,8 @@
     TensorFlow  >=  2.3.1  
         # for CUDA10 --> 2.3.1
         # for CUDA11 --> 2.4
+    torch       >=  1.7.1       
+        # recommended install script: https://pytorch.org/get-started/locally/
     tqdm        >=  4.56.2      (Optional)
     pydot       >=  1.4.2       (Optional)
     livelossplot>=  0.5.4       (Optional)
