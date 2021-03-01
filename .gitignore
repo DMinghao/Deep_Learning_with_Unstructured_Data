@@ -131,3 +131,4 @@ dmypy.json
 *.gephi_*
 
 .vscode/
+magic_weights.h5
